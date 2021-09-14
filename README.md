@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @conniehqk - an aspiring female programmer
+- 👋 Hi, I’m @conniehqk - an aspiring software engineer
 - 👀 I’m interested in music, food, kayaking, hiking and of course, coding!
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on bulding a project
