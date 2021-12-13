@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @conniehqk - an aspiring software engineer
+- 👋 Hi, I’m @conniehqk - a full stack software engineer
 - 👀 I’m interested in music, food, kayaking, hiking and of course, coding!
-- 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on bulding a project
+- 🌱 I’m currently learning Ruby on Rails, Python and Javascript
 - 📫 How to reach me: hqk1121@gmail.com
 
 <!---
