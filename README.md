@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @conniehqk - a full stack software engineer
-- 👀 I’m interested in music, food, kayaking, hiking and of course, coding!
-- 🌱 I’m currently learning Ruby on Rails, Python and Javascript
+- 👋 Hi, I’m Connie Kang - a full stack software engineer
 - 📫 How to reach me: hqk1121@gmail.com
 
 <!---
